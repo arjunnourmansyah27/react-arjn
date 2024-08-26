@@ -47,6 +47,7 @@ button {
 }
 button:hover {
   border-color: #fbf6fa;
+  border-radius: 5rem;
 }
 button:focus,
 button:focus-visible {
@@ -73,4 +74,8 @@ button:focus-visible {
 #count {
   font-weight: bold;
   font-size: 80px;
+}
+
+#star {
+  font-size: 15px;
 }

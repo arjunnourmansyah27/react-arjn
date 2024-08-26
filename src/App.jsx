@@ -23,7 +23,7 @@ function App() {
       <button id='reset' onClick={resetCount}>Reset</button>
       <article>
         <h3>Kamu me-klik sebanyak : {count}</h3>
-        <p>yeay⭐</p>
+        <p id='star'>yeay⭐</p>
       </article>
     </main>
     </>
