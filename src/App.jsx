@@ -6,6 +6,11 @@ function App() {
 
   return (
     <>
+    <main>
+      <header>
+        <p>Tests</p>
+      </header>
+    </main>
     </>
   )
 }
